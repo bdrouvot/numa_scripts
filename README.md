@@ -1,8 +1,8 @@
-# numa_scripts
-Some scripts related to numa
+##Some scripts related to numa##
 
-First one: numa_memory.sh to display the memory distribution:
+1. **numa_memory.sh to display the memory distribution**
 
+```sh
  sh ./numa_memory.sh
  
                 MemTotal         MemFree         MemUsed           Shmem      HugePages_Total       HugePages_Free       HugePages_Surp
@@ -14,3 +14,4 @@ Node_4      136024568_kB     43495260_kB     92529308_kB        10992_kB        
 Node_5      136052736_kB     49631604_kB     86421132_kB        77868_kB                39302                39047                    0
 Node_6      136052736_kB     16708280_kB    119344456_kB        10516_kB                39302                39047                    0
 Node_7      136052736_kB     50028848_kB     86023888_kB        10596_kB                39302                39047                    0
+```
