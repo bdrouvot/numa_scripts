@@ -1,4 +1,6 @@
 ##Some scripts related to numa##
+test1  
+test2
 
 1. **numa_memory.sh to display the memory distribution and usage across NUMA nodes**
 
